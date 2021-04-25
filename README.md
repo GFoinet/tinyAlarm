@@ -13,6 +13,7 @@ movement-triggered alarm that sends text-messages alerts through GSM
 * it should offer a friendly way for configuration (example: self-hosted webserver, smartphone app + bluetooth, smartphone app + encoded configuration through SMS message, ...)
 * it should send text message when supply power turns off
 * once an alert is sent, it could play a sound (alarm or a recorded sentence such as "home-owner has been warned of a presence").
+* it could answer phone calls from authorized numbers and let them listen what is can hear (some microphone involved here). maybe they should be able to talk too.
 
 # What is should'nt do
 * no connection to internet. Just because it can doesn't mean it should. The system must solely rely on power supply and GSM coverage.
